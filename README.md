@@ -41,6 +41,7 @@ A comprehensive Python-based system for managing insurance policies, policyholde
 | `payment.py` | Payment processing and receipt generation |
 | `policy.py` | Policy lifecycle management system |
 | `main.py` | Demonstration of system capabilities |
+| `Policy Management System for an Insurance Company.ipynb`| containing the combined jupyter notebook file |
 
 3. ## Running the System
     main.py
