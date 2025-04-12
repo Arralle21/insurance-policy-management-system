@@ -42,8 +42,8 @@ A comprehensive Python-based system for managing insurance policies, policyholde
 | `policy.py` | Policy lifecycle management system |
 | `main.py` | Demonstration of system capabilities |
 
-3. ## Running the System 
-python main.py
+3. ## Running the System
+    main.py
 
 
 _______________________________________________________________________________________________________________________________________          
